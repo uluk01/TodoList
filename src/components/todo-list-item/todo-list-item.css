@@ -1,0 +1,17 @@
+.todo-list-item {
+     font-size: 18px;
+     font-weight: 500;
+     text-transform: capitalize;
+ }
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.done{
+    text-decoration: line-through;
+}
+.important {
+    color: red;
+    font-weight: bold;
+}
